@@ -8,7 +8,7 @@ msgstr ""
 "Project-Id-Version: pgAdmin4\n"
 "Report-Msgid-Bugs-To: oon@oo.or.id\n"
 "POT-Creation-Date: 2024-05-23 18:44+0530\n"
-"PO-Revision-Date: 2024-06-08 07:54+0000\n"
+"PO-Revision-Date: 2024-06-17 12:18+0000\n"
 "Last-Translator: oon arfiandwi <oon@oo.or.id>\n"
 "Language-Team: Indonesian <http://webl.oo.or.id/projects/pgadmin4/"
 "web-pgadmin/id/>\n"
@@ -9232,7 +9232,7 @@ msgstr "Port Terowongan"
 #: pgadmin/static/js/SecurityPages/MfaValidatePage.jsx:104
 #: pgadmin/tools/user_management/static/js/user_management.js:38
 msgid "Authentication"
-msgstr "Otentikasi"
+msgstr "Autentikasi"
 
 #: pgadmin/browser/server_groups/servers/static/js/server.ui.js:287
 #: pgadmin/browser/server_groups/servers/static/js/server.ui.js:295
@@ -17684,4 +17684,3 @@ msgid ""
 msgstr ""
 "Gagal membuat terowongan SSH.\n"
 "Kesalahan: {0}"
-
